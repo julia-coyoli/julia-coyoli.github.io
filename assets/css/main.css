@@ -698,7 +698,6 @@ input, select, textarea {
 			display: block;
 			margin: 2.5rem 0;
 			object-fit: contain;
-			position: static;
 		}
 
 			.image.main img {
